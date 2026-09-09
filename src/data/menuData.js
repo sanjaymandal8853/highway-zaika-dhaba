@@ -1,0 +1,68 @@
+const menuData = [
+  {
+    id: 1,
+    name: "Butter Chicken",
+    category: "Non-Veg",
+    price: 320,
+    description: "Tender chicken cooked in a rich, creamy tomato gravy.",
+    image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+  },
+  {
+    id: 2,
+    name: "Paneer Butter Masala",
+    category: "Veg",
+    price: 260,
+    description: "Soft paneer cubes in a delicious buttery masala.",
+    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7",
+  },
+  {
+    id: 3,
+    name: "Dal Makhani",
+    category: "Veg",
+    price: 220,
+    description: "Slow-cooked black lentils with butter and cream.",
+    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+  },
+  {
+    id: 4,
+    name: "Tandoori Chicken",
+    category: "Non-Veg",
+    price: 350,
+    description: "Smoky chicken marinated in traditional Indian spices.",
+    image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+  },
+  {
+    id: 5,
+    name: "Garlic Naan",
+    category: "Bread",
+    price: 60,
+    description: "Fresh tandoor naan topped with garlic and butter.",
+    image: "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f",
+  },
+  {
+    id: 6,
+    name: "Veg Biryani",
+    category: "Rice",
+    price: 240,
+    description: "Fragrant basmati rice with vegetables and spices.",
+    image: "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
+  },
+  {
+    id: 7,
+    name: "Aloo Paratha",
+    category: "Breakfast",
+    price: 120,
+    description: "Stuffed paratha served with curd and pickle.",
+    image: "https://images.unsplash.com/photo-1626074353765-517a681e40be",
+  },
+  {
+    id: 8,
+    name: "Sweet Lassi",
+    category: "Drinks",
+    price: 90,
+    description: "Refreshing traditional Punjabi yogurt drink.",
+    image: "https://images.unsplash.com/photo-1626074353765-517a681e40be",
+  },
+];
+
+export default menuData;
